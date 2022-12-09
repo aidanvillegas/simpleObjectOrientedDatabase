@@ -1,10 +1,3 @@
-//Noah Molla
-//Mr. Kahn Period 4
-//Ready, Set... Code! S2E4 (Simple OOP Database) - [Due: Sun 11/15 @ 11:59PM]
-//November 30th, 2020
-//Sources: https://www.youtube.com/watch?v=0KdG9DZgi6I 
-//https://www.youtube.com/watch?v=CWYv7xlKydw&ab_channel=AlexLee
-//Collaborated with Aidan Villegas
 
 import javax.swing.*;
 
@@ -18,7 +11,7 @@ public class StudentGUI extends JFrame
 	  /**
 		 * 
 		 */
-		private static final long serialVersionUID = 3264998872007300163L; //https://www.youtube.com/watch?v=0KdG9DZgi6I // Just to resolve error
+		private static final long serialVersionUID = 3264998872007300163L; 
 		
 		//GUI 
 		JTextArea studentTextArea = new JTextArea ();
